@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AC_AIMBOT", "AC_AIMBOT\AC_AIMBOT.csproj", "{F894E3D4-98E4-4194-8E7C-5464AD957968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Debug|x86.ActiveCfg = Debug|x86
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Debug|x86.Build.0 = Debug|x86
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Release|x86.ActiveCfg = Release|x86
+		{F894E3D4-98E4-4194-8E7C-5464AD957968}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A648BA-6740-48B7-987A-CE3A588A3F93}
+	EndGlobalSection
+EndGlobal
